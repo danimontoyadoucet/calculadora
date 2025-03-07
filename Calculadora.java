@@ -40,6 +40,11 @@ public class Calculadora {
         }
     }
 
+    public static double media(double num1, double num2) {
+        return (num1 + num2) / 2;
+    }
+    
+
     public static void main(String[] args) {
         // Ejemplo de uso
         int a = 2;
